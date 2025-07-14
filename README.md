@@ -1,11 +1,10 @@
 ## 📂 Project Structure
 
-
-├── notebook.ipynb                         
 ### Main Jupyter notebook
+├── notebook.ipynb                         
 
-├── kindle_reviews.csv                     
 ### Amazon Kindle Review Dataset
+├── kindle_reviews.csv                     
 
-├── README.md                                 
 ### Project Documentation
+├── README.md                                 
